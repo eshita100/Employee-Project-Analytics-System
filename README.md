@@ -38,7 +38,7 @@ Employees who worked more than a specific number of hours
 
 Departments with projects under a certain budget
 
-Process
+## Process
 
 Data Cleaning & Verification: Checked for missing or inconsistent values in employee, department, project, and assignment data.
 
